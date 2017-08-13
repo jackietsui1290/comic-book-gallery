@@ -7,7 +7,7 @@ The app was creating using the ASP.NET MVC framework in Visual Studio.
 Some techniques/technologies used in this app-
 -HTML
 -C#.NET
--Model/View/Controller (MVC)
+-Model/View/Controller (MVC Design)
   -Action links
   -URL routing
   -Default route
