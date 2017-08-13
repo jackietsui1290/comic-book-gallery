@@ -2,6 +2,7 @@
 
 @{
     ViewBag.Title = Model.DisplayText;
+    ViewBag.ShowBackBar = true; //When details is rendered, backbar will show up in layout. will not render in index as ShowBackBar is null
 }
 
 <h2>@Model.DisplayText</h2>
